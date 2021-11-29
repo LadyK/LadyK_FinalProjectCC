@@ -1,5 +1,6 @@
 var count = 0;
 var state = false;
+let new var = 25;
 
 function setup(){
 	createCanvas(800,600);
